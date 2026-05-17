@@ -13,7 +13,7 @@ gb4.led.us.ci#GB-1.90Mbps
 hk1.led.us.ci#HK-29.35Mbps
 hk2.led.us.ci#HK-23.62Mbps
 hk3.led.us.ci#HK-20.15Mbps
-hk4.led.us.ci#HK-6.89Mbps
+hk4.led.us.ci#HK-9.17Mbps
 in1.led.us.ci#IN-4.42Mbps
 in2.led.us.ci#IN-2.02Mbps
 in3.led.us.ci#IN-1.69Mbps
